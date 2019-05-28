@@ -1,0 +1,10 @@
+things to do here
+1. Create a function to download the data from adls into a local folder
+2. Create a config.ini for storing creds
+3. Create the app as a daemon
+4. Handle error conditions
+
+
+Python vitual env
+- can be done using a virtual env wrapper mkvirtualenv -p python3.7 virtual-env-name
+- if you have conda then virtual env is link to that
